@@ -1,0 +1,29 @@
+Instruções
+
+1. Clonar o repositório:
+
+$ git clone <endereço do repositório>
+
+
+2. Criar o arquivo info.txt com o conteúdo:
+
+Bem vindo ao git!
+
+
+3. Acrescente o arquivo ao repositório:
+
+$ git add info.txt.
+
+
+4. Faça o commit e acrescente a mensagem ("Acrescenta o arquivo info.txt"):
+
+$ git commit
+
+
+5. Sincronize a origem com sua cópia:
+
+$ git push origin master
+
+
+
+
